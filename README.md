@@ -9,7 +9,7 @@
 Interested in Python, Java, JS
 
 ## Adventurous🤸‍♂️
-BJJ/WRESTLING/MUAY THAI/Trail runnig
+
 
 <br>  
 <br>
