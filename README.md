@@ -6,7 +6,8 @@
 Interested in Python, Java, JS
 
 ## Adventurous🤸‍♂️
-
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeol3011)](https://solved.ac/yeol3011)
 
 <br>  
 <br>
