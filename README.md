@@ -8,12 +8,12 @@ Interested in Python, Java, JS
 ## Adventurous🤸‍♂️
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeol3011)](https://solved.ac/yeol3011)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeol3011)](https://solved.ac/yeol3011)
 
 <br>  
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papillonthor&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papillonthor&show_icons=true&theme=tokyonight) -->
 <!--
 **papillonthor/papillonthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
